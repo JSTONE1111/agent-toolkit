@@ -12,7 +12,7 @@
   "dependencies": {
     "@ai-sdk/openai": "^0.0.63",
     "@stripe/agent-toolkit": "file:../typescript",
-    "ai": "^4.0.28",
+    "ai": "^5.0.52",
     "autoevals": "^0.0.124",
     "braintrust": "^0.0.185",
     "dotenv": "^16.4.7",
